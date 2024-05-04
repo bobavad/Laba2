@@ -97,4 +97,5 @@ public class BazaDannich implements Comparable<BazaDannich> {
 
 //Типо хотфикс
 //Хотфикс 2.0
+//Сделали спринт
 }
